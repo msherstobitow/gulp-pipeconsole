@@ -1,0 +1,35 @@
+{
+  "name": "gulp-pipeconsole",
+  "version": "0.0.1",
+  "description": "Logs any text to console",
+  "license": "MIT",
+  "author": {
+    "name": "Maks Sherstobitow",
+    "email": "maksim.sherstobitow@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaok/gulp-pipeconsole.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "console",
+    "log",
+    "debug"
+  ],
+  "dependencies": {
+    "map-stream": "~0.0.4",
+    "gulp-util": "~2.2.0"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "*"
+  },
+  "maintainers": [
+    {
+      "name": "kaok",
+      "email": "maksim.sherstobitow@gmail.com"
+    }
+  ],
+  "directories": {}
+}
