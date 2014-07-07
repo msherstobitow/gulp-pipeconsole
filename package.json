@@ -31,5 +31,15 @@
       "email": "maksim.sherstobitow@gmail.com"
     }
   ],
-  "directories": {}
+  "directories": {},
+  "readme": "gulp-pipeconsole\n===========\n\n[Gulp](https://github.com/wearefractal/gulp) extension to log any text to the console.\n\n\tvar pipeconsole = require('gulp-pipeconsole');\n\nExample\n-------\n\t\n\tgulp.src('./css/*.css')\n\t//all your gulp tasks\n\t.pipe(pipeconsole('Any text')) // 'Any text'\n\t\n\nLicense\n-------\n\nMIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/kaok/gulp-pipeconsole/issues"
+  },
+  "homepage": "https://github.com/kaok/gulp-pipeconsole",
+  "_id": "gulp-pipeconsole@0.0.1",
+  "scripts": {},
+  "_shasum": "102fce853bf8d085f06b226b57d185ba66eb0e15",
+  "_from": "gulp-pipeconsole@"
 }
