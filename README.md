@@ -9,8 +9,8 @@ Example
 -------
 	
 	gulp.src('./css/*.css')
-	//all your gulp tasks
-	.pipe(pipeconsole('Any text')) // 'Any text'
+	//any of your gulp tasks
+	.pipe(pipeconsole('Any text')); // 'Any text'
 	
 
 License
